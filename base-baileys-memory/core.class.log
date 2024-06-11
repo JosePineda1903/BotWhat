@@ -1,0 +1,1762 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '593967687882@s.whatsapp.net',
+    fromMe: false,
+    id: '57D988084481E587995B33AB3D31CFE0',
+    participant: undefined
+  },
+  messageTimestamp: 1715311058,
+  pushName: 'José',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hola',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '593967687882'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_961be77a-3932-490d-8b3a-af852e73d5fb',
+  keyword: 'key_7fd9b71d-386d-4d27-89cf-7fad7826147a',
+  answer: '\t*¡Bienvenid@!* 👋\n' +
+    'Hola soy *J*, el asistente virtual del colegio José María Vivar Castro \n' +
+    'Selecione una opción si necesita información academica:\n' +
+    '\t*1*- Información institucional 😎\n' +
+    '\t*2*- Requisitos de Matricula ✅\n' +
+    '\t*3*- Formas de Estudio \n' +
+    '\t*4* - Costos\n' +
+    '\t*5* - Información Exclusiva 👨‍💻 \n' +
+    '\t*6* - Nuestras Redes 📱\n' +
+    '\t*7* - Salir 👋',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'a282228f65e2b1750f019b7741151cb8'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593967687882@s.whatsapp.net',
+    fromMe: false,
+    id: '6837FE4A9AF89DD00F15BCFCFF1D1F8B',
+    participant: undefined
+  },
+  messageTimestamp: 1715311058,
+  pushName: 'José',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 86400,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '593967687882'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593967687882@s.whatsapp.net',
+    fromMe: false,
+    id: '14E7B1C455015DA19649326B40CD32EE',
+    participant: undefined
+  },
+  messageTimestamp: 1715311080,
+  pushName: 'José',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '1',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '593967687882'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_fe9c327c-de37-43ac-b7ba-2a3c00fd947b',
+  keyword: 'key_5c2eb285-cfe6-4839-9168-6e4b31d28074',
+  answer: 'Usted se ha comunicado con el Colegio de Bachillerato Particular Dr. Jose María Vivar Castro, con 19 años al servicio de la sociedad Lojana, ecuatoriana y fuera del país.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '0ccd21370b9a67133b54759933b0f556'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593967687882@s.whatsapp.net',
+    fromMe: false,
+    id: 'E32121B1F612B087BF2DDBFFF2733DED',
+    participant: undefined
+  },
+  messageTimestamp: 1715311081,
+  pushName: 'José',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 86400,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '593967687882'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8bf59ac4-9a52-4b2f-ad24-96db2095c445',
+  keyword: 'ans_fe9c327c-de37-43ac-b7ba-2a3c00fd947b',
+  answer: 'digita *0* para el menu',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '2c52e15961b068a78530a80e2e773837'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593967687882@s.whatsapp.net',
+    fromMe: false,
+    id: '67FEE9242EC667A10A8624FDA91B7982',
+    participant: undefined
+  },
+  messageTimestamp: 1715311099,
+  pushName: 'José',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '0',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '0',
+  from: '593967687882'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_961be77a-3932-490d-8b3a-af852e73d5fb',
+  keyword: 'key_7fd9b71d-386d-4d27-89cf-7fad7826147a',
+  answer: '\t*¡Bienvenid@!* 👋\n' +
+    'Hola soy *J*, el asistente virtual del colegio José María Vivar Castro \n' +
+    'Selecione una opción si necesita información academica:\n' +
+    '\t*1*- Información institucional 😎\n' +
+    '\t*2*- Requisitos de Matricula ✅\n' +
+    '\t*3*- Formas de Estudio \n' +
+    '\t*4* - Costos\n' +
+    '\t*5* - Información Exclusiva 👨‍💻 \n' +
+    '\t*6* - Nuestras Redes 📱\n' +
+    '\t*7* - Salir 👋',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'a282228f65e2b1750f019b7741151cb8'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593967687882@s.whatsapp.net',
+    fromMe: false,
+    id: '8C29FC21021C9C43B8A5B536D60243B6',
+    participant: undefined
+  },
+  messageTimestamp: 1715311099,
+  pushName: 'José',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 86400,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '593967687882'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593967687882@s.whatsapp.net',
+    fromMe: false,
+    id: 'D50590035C7E2070C277D0D61A3588EA',
+    participant: undefined
+  },
+  messageTimestamp: 1715311111,
+  pushName: 'José',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '2',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '593967687882'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_70b4170a-b570-4a05-97cf-1b6483b7d4ae',
+  keyword: 'key_81192c03-a858-43f2-b50f-6c3fce97b226',
+  answer: '*Educación Básica Superior* (8vo a 10mo grados) para personas con escolaridad inconclusa (PCEI) modalidad a distancia.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'e33f5bfa1ed70f1f1cf7721560ce2cbb'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_7d952e63-66a0-4bb6-9ab8-6774332a8f60',
+  keyword: 'ans_70b4170a-b570-4a05-97cf-1b6483b7d4ae',
+  answer: '*Bachillerato en Ciencias* (1°, 2° y 3°) para personas con escolaridad inconclusa (PCEI) modalidad a distancia…',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '5bb928693f1d463cf0f22c00136dbecd'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593967687882@s.whatsapp.net',
+    fromMe: false,
+    id: '83095164AF9D7FB104F517F941A4678B',
+    participant: undefined
+  },
+  messageTimestamp: 1715311111,
+  pushName: 'José',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 86400,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '593967687882'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_564b047c-ed8c-48c9-a607-7b8ada66b612',
+  keyword: 'ans_7d952e63-66a0-4bb6-9ab8-6774332a8f60',
+  answer: 'digita *0* para el menu',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '4406f8a470c58ec6c5ff24ec0307efdb'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593967687882@s.whatsapp.net',
+    fromMe: false,
+    id: 'ED8054FB1F14B28BA7B83B1BC7DA6DFB',
+    participant: undefined
+  },
+  messageTimestamp: 1715311174,
+  pushName: 'José',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hola',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '593967687882'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_961be77a-3932-490d-8b3a-af852e73d5fb',
+  keyword: 'key_7fd9b71d-386d-4d27-89cf-7fad7826147a',
+  answer: '\t*¡Bienvenid@!* 👋\n' +
+    'Hola soy *J*, el asistente virtual del colegio José María Vivar Castro \n' +
+    'Selecione una opción si necesita información academica:\n' +
+    '\t*1*- Información institucional 😎\n' +
+    '\t*2*- Requisitos de Matricula ✅\n' +
+    '\t*3*- Formas de Estudio \n' +
+    '\t*4* - Costos\n' +
+    '\t*5* - Información Exclusiva 👨‍💻 \n' +
+    '\t*6* - Nuestras Redes 📱\n' +
+    '\t*7* - Salir 👋',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'a282228f65e2b1750f019b7741151cb8'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593967687882@s.whatsapp.net',
+    fromMe: false,
+    id: '5FAB925013EF3529B483DC08A15A6875',
+    participant: undefined
+  },
+  messageTimestamp: 1715311175,
+  pushName: 'José',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 86400,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '593967687882'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593967687882@s.whatsapp.net',
+    fromMe: false,
+    id: '5675A2EA5A623B3C3DA82E6EC455E1A3',
+    participant: undefined
+  },
+  messageTimestamp: 1715311196,
+  pushName: 'José',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '1',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '593967687882'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_fe9c327c-de37-43ac-b7ba-2a3c00fd947b',
+  keyword: 'key_5c2eb285-cfe6-4839-9168-6e4b31d28074',
+  answer: 'Usted se ha comunicado con el Colegio de Bachillerato Particular Dr. Jose María Vivar Castro, con 19 años al servicio de la sociedad Lojana, ecuatoriana y fuera del país.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '0ccd21370b9a67133b54759933b0f556'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593967687882@s.whatsapp.net',
+    fromMe: false,
+    id: 'CE629AC6B46511A3DDEBA1097480AA09',
+    participant: undefined
+  },
+  messageTimestamp: 1715311197,
+  pushName: 'José',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 86400,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '593967687882'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8bf59ac4-9a52-4b2f-ad24-96db2095c445',
+  keyword: 'ans_fe9c327c-de37-43ac-b7ba-2a3c00fd947b',
+  answer: 'digita *0* para el menu',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '2c52e15961b068a78530a80e2e773837'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593967687882@s.whatsapp.net',
+    fromMe: false,
+    id: '370CC77206E5D2D8F5A893F92DCFF86E',
+    participant: undefined
+  },
+  messageTimestamp: 1715311213,
+  pushName: 'José',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '0',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '0',
+  from: '593967687882'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_961be77a-3932-490d-8b3a-af852e73d5fb',
+  keyword: 'key_7fd9b71d-386d-4d27-89cf-7fad7826147a',
+  answer: '\t*¡Bienvenid@!* 👋\n' +
+    'Hola soy *J*, el asistente virtual del colegio José María Vivar Castro \n' +
+    'Selecione una opción si necesita información academica:\n' +
+    '\t*1*- Información institucional 😎\n' +
+    '\t*2*- Requisitos de Matricula ✅\n' +
+    '\t*3*- Formas de Estudio \n' +
+    '\t*4* - Costos\n' +
+    '\t*5* - Información Exclusiva 👨‍💻 \n' +
+    '\t*6* - Nuestras Redes 📱\n' +
+    '\t*7* - Salir 👋',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'a282228f65e2b1750f019b7741151cb8'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593967687882@s.whatsapp.net',
+    fromMe: false,
+    id: '03991F0159A7B0B6919229054D0C5B0A',
+    participant: undefined
+  },
+  messageTimestamp: 1715311214,
+  pushName: 'José',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 86400,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '593967687882'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593967687882@s.whatsapp.net',
+    fromMe: false,
+    id: '4116B09258D37D7BFAA0CE0A4C250F9C',
+    participant: undefined
+  },
+  messageTimestamp: 1715311222,
+  pushName: 'José',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '2',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '593967687882'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_70b4170a-b570-4a05-97cf-1b6483b7d4ae',
+  keyword: 'key_81192c03-a858-43f2-b50f-6c3fce97b226',
+  answer: '*Educación Básica Superior* (8vo a 10mo grados) para personas con escolaridad inconclusa (PCEI) modalidad a distancia.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'e33f5bfa1ed70f1f1cf7721560ce2cbb'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_7d952e63-66a0-4bb6-9ab8-6774332a8f60',
+  keyword: 'ans_70b4170a-b570-4a05-97cf-1b6483b7d4ae',
+  answer: '*Bachillerato en Ciencias* (1°, 2° y 3°) para personas con escolaridad inconclusa (PCEI) modalidad a distancia…',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '5bb928693f1d463cf0f22c00136dbecd'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593967687882@s.whatsapp.net',
+    fromMe: false,
+    id: 'F936F98F6E64CF3CCF2B30DE6997E73F',
+    participant: undefined
+  },
+  messageTimestamp: 1715311223,
+  pushName: 'José',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 86400,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '593967687882'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_564b047c-ed8c-48c9-a607-7b8ada66b612',
+  keyword: 'ans_7d952e63-66a0-4bb6-9ab8-6774332a8f60',
+  answer: 'digita *0* para el menu',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '4406f8a470c58ec6c5ff24ec0307efdb'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593967687882@s.whatsapp.net',
+    fromMe: false,
+    id: '20BB43FF211A5DE39276F4A145595956',
+    participant: undefined
+  },
+  messageTimestamp: 1715311238,
+  pushName: 'José',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '0',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '0',
+  from: '593967687882'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_961be77a-3932-490d-8b3a-af852e73d5fb',
+  keyword: 'key_7fd9b71d-386d-4d27-89cf-7fad7826147a',
+  answer: '\t*¡Bienvenid@!* 👋\n' +
+    'Hola soy *J*, el asistente virtual del colegio José María Vivar Castro \n' +
+    'Selecione una opción si necesita información academica:\n' +
+    '\t*1*- Información institucional 😎\n' +
+    '\t*2*- Requisitos de Matricula ✅\n' +
+    '\t*3*- Formas de Estudio \n' +
+    '\t*4* - Costos\n' +
+    '\t*5* - Información Exclusiva 👨‍💻 \n' +
+    '\t*6* - Nuestras Redes 📱\n' +
+    '\t*7* - Salir 👋',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'a282228f65e2b1750f019b7741151cb8'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593967687882@s.whatsapp.net',
+    fromMe: false,
+    id: '68101BBADF325170A7180A29CBD892B7',
+    participant: undefined
+  },
+  messageTimestamp: 1715311238,
+  pushName: 'José',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 86400,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '593967687882'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593967687882@s.whatsapp.net',
+    fromMe: false,
+    id: '72B55DD1EFCA084995C56ACBD1E7830C',
+    participant: undefined
+  },
+  messageTimestamp: 1715311247,
+  pushName: 'José',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '3',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '593967687882'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c6c926d8-6f9a-4808-9200-887dc42e4d21',
+  keyword: 'key_253b9a80-e402-4b72-a412-5f127997521a',
+  answer: '*Modalidad Presencial* \n' +
+    'Para la modalidad presencial los estudiantes deben acudir a la institución en el horario establecido de 07:10  13:10 de lunes a viernes ',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '8297e02b5556ee23572d1e86e7db07fb'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a6c12d72-590f-4369-a9fc-4cdaff2aba94',
+  keyword: 'ans_c6c926d8-6f9a-4808-9200-887dc42e4d21',
+  answer: '*Modalidad a Distancia* \n' +
+    ' La modalidad a Distancia Virtual se realiza por medio de la plataforma y/o fichas académicas. \n' +
+    ' Dar pruebas de los años correspondientes, por medio de la plataforma virtual. \n' +
+    ' Al finalizar el proceso debe realizar la prueba o proyecto de grado el cual le acredita para ser bachiller (se realizan a finales del mes de junio)',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '9b29b9651cc87100b9141d0e462a966a'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593967687882@s.whatsapp.net',
+    fromMe: false,
+    id: '1CBE001092BA007EAC4575AC0C03CA9F',
+    participant: undefined
+  },
+  messageTimestamp: 1715311247,
+  pushName: 'José',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 86400,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '593967687882'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_7709ef12-d35a-4ca4-b009-4db395b78113',
+  keyword: 'ans_a6c12d72-590f-4369-a9fc-4cdaff2aba94',
+  answer: 'digita *0* para el menu',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '972afd4ab54ad0c086136b642a314896'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593967687882@s.whatsapp.net',
+    fromMe: false,
+    id: 'ABA944E1EA033393BD533D2BEF0FFA13',
+    participant: undefined
+  },
+  messageTimestamp: 1715311256,
+  pushName: 'José',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '0',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '0',
+  from: '593967687882'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_961be77a-3932-490d-8b3a-af852e73d5fb',
+  keyword: 'key_7fd9b71d-386d-4d27-89cf-7fad7826147a',
+  answer: '\t*¡Bienvenid@!* 👋\n' +
+    'Hola soy *J*, el asistente virtual del colegio José María Vivar Castro \n' +
+    'Selecione una opción si necesita información academica:\n' +
+    '\t*1*- Información institucional 😎\n' +
+    '\t*2*- Requisitos de Matricula ✅\n' +
+    '\t*3*- Formas de Estudio \n' +
+    '\t*4* - Costos\n' +
+    '\t*5* - Información Exclusiva 👨‍💻 \n' +
+    '\t*6* - Nuestras Redes 📱\n' +
+    '\t*7* - Salir 👋',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'a282228f65e2b1750f019b7741151cb8'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593967687882@s.whatsapp.net',
+    fromMe: false,
+    id: '2824094DD037D07851206E751D92D85B',
+    participant: undefined
+  },
+  messageTimestamp: 1715311257,
+  pushName: 'José',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 86400,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '593967687882'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593967687882@s.whatsapp.net',
+    fromMe: false,
+    id: '54796BD38F257838645FD9224B266E39',
+    participant: undefined
+  },
+  messageTimestamp: 1715311267,
+  pushName: 'José',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '4',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '4',
+  from: '593967687882'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_6b6ce818-e82f-44ca-8a2f-a13f3d870a21',
+  keyword: 'key_65807a19-1572-49a1-8570-a6603c69e786',
+  answer: 'Referente a costos por favor comunicarse con colecturía marcando al número https://wa.link/kdi1hc',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '7ae4d9748d61a3dd34afd9bbf30a6a91'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593967687882@s.whatsapp.net',
+    fromMe: false,
+    id: 'DD154A56CC136C978099BD85CA237D81',
+    participant: undefined
+  },
+  messageTimestamp: 1715311268,
+  pushName: 'José',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 86400,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '593967687882'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9ac42733-935f-48a7-a6ca-5588bbf98e42',
+  keyword: 'ans_6b6ce818-e82f-44ca-8a2f-a13f3d870a21',
+  answer: 'digita *0* para el menu',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '5619c742ac39c69db4603bccbe7ad019'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593967687882@s.whatsapp.net',
+    fromMe: false,
+    id: '6808CCABAAAFBA4DB47224FEE33A5A73',
+    participant: undefined
+  },
+  messageTimestamp: 1715311298,
+  pushName: 'José',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '0',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '0',
+  from: '593967687882'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_961be77a-3932-490d-8b3a-af852e73d5fb',
+  keyword: 'key_7fd9b71d-386d-4d27-89cf-7fad7826147a',
+  answer: '\t*¡Bienvenid@!* 👋\n' +
+    'Hola soy *J*, el asistente virtual del colegio José María Vivar Castro \n' +
+    'Selecione una opción si necesita información academica:\n' +
+    '\t*1*- Información institucional 😎\n' +
+    '\t*2*- Requisitos de Matricula ✅\n' +
+    '\t*3*- Formas de Estudio \n' +
+    '\t*4* - Costos\n' +
+    '\t*5* - Información Exclusiva 👨‍💻 \n' +
+    '\t*6* - Nuestras Redes 📱\n' +
+    '\t*7* - Salir 👋',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'a282228f65e2b1750f019b7741151cb8'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593967687882@s.whatsapp.net',
+    fromMe: false,
+    id: 'C2F41BF14820060A0BA6B01C57B2337A',
+    participant: undefined
+  },
+  messageTimestamp: 1715311299,
+  pushName: 'José',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 86400,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '593967687882'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593967687882@s.whatsapp.net',
+    fromMe: false,
+    id: '459AC063CB6687EC714B2CD71F258DEE',
+    participant: undefined
+  },
+  messageTimestamp: 1715311306,
+  pushName: 'José',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '5',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '5',
+  from: '593967687882'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_29c765e3-90bd-4799-bbc9-22889ae9f66f',
+  keyword: 'key_fb99091e-c33d-4491-ba4b-10a3bc778983',
+  answer: 'Información exclusiva en secretaria del plantel marcando al número https://walink.co/c5ad39',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '478475262112b3d06433f481c93c99f3'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593967687882@s.whatsapp.net',
+    fromMe: false,
+    id: '839120E9708562EBB17A64ACCB3CE47A',
+    participant: undefined
+  },
+  messageTimestamp: 1715311307,
+  pushName: 'José',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 86400,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '593967687882'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a93acfea-f28a-493b-88ef-5bbd4f8f17b9',
+  keyword: 'ans_29c765e3-90bd-4799-bbc9-22889ae9f66f',
+  answer: 'digita *0* para el menu',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'fba26160f0797575efd0d3b4dece4664'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593967687882@s.whatsapp.net',
+    fromMe: false,
+    id: 'E6595CD5402CFDC8929B413A7C7AE9F2',
+    participant: undefined
+  },
+  messageTimestamp: 1715311323,
+  pushName: 'José',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '0',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '0',
+  from: '593967687882'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_961be77a-3932-490d-8b3a-af852e73d5fb',
+  keyword: 'key_7fd9b71d-386d-4d27-89cf-7fad7826147a',
+  answer: '\t*¡Bienvenid@!* 👋\n' +
+    'Hola soy *J*, el asistente virtual del colegio José María Vivar Castro \n' +
+    'Selecione una opción si necesita información academica:\n' +
+    '\t*1*- Información institucional 😎\n' +
+    '\t*2*- Requisitos de Matricula ✅\n' +
+    '\t*3*- Formas de Estudio \n' +
+    '\t*4* - Costos\n' +
+    '\t*5* - Información Exclusiva 👨‍💻 \n' +
+    '\t*6* - Nuestras Redes 📱\n' +
+    '\t*7* - Salir 👋',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'a282228f65e2b1750f019b7741151cb8'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593967687882@s.whatsapp.net',
+    fromMe: false,
+    id: '804128DD19EF5E821F2E5475017725CA',
+    participant: undefined
+  },
+  messageTimestamp: 1715311324,
+  pushName: 'José',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 86400,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '593967687882'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593967687882@s.whatsapp.net',
+    fromMe: false,
+    id: '0E11598BFD37BCF3DE47EE0B91303A92',
+    participant: undefined
+  },
+  messageTimestamp: 1715311328,
+  pushName: 'José',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '6',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '6',
+  from: '593967687882'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_78393c6e-fd73-4e37-a20f-e362374c7ce2',
+  keyword: 'key_641c6c53-f4a5-4dfd-ad82-a571888feef2',
+  answer: '*Echa un vistazo:* *TikTok*\n\t',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b18c8ca2cb6d0db01b4ccef6e25c0511'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593967687882@s.whatsapp.net',
+    fromMe: false,
+    id: '9F637A5DD7265E2ACA878834F71AE30E',
+    participant: undefined
+  },
+  messageTimestamp: 1715311328,
+  pushName: 'José',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 86400,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '593967687882'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ae1a777b-61c3-4bb2-961e-0ea541187903',
+  keyword: 'ans_78393c6e-fd73-4e37-a20f-e362374c7ce2',
+  answer: 'digita *0* para el menu',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f72dd4ca5c64df067c8b8477822890c1'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593967687882@s.whatsapp.net',
+    fromMe: false,
+    id: '4217050E67333DCDF701CE8030EA89C1',
+    participant: undefined
+  },
+  messageTimestamp: 1715311345,
+  pushName: 'José',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '0',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '0',
+  from: '593967687882'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_961be77a-3932-490d-8b3a-af852e73d5fb',
+  keyword: 'key_7fd9b71d-386d-4d27-89cf-7fad7826147a',
+  answer: '\t*¡Bienvenid@!* 👋\n' +
+    'Hola soy *J*, el asistente virtual del colegio José María Vivar Castro \n' +
+    'Selecione una opción si necesita información academica:\n' +
+    '\t*1*- Información institucional 😎\n' +
+    '\t*2*- Requisitos de Matricula ✅\n' +
+    '\t*3*- Formas de Estudio \n' +
+    '\t*4* - Costos\n' +
+    '\t*5* - Información Exclusiva 👨‍💻 \n' +
+    '\t*6* - Nuestras Redes 📱\n' +
+    '\t*7* - Salir 👋',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'a282228f65e2b1750f019b7741151cb8'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593967687882@s.whatsapp.net',
+    fromMe: false,
+    id: '25BB95275042082D5C077670C17DA34F',
+    participant: undefined
+  },
+  messageTimestamp: 1715311345,
+  pushName: 'José',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 86400,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '593967687882'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593967687882@s.whatsapp.net',
+    fromMe: false,
+    id: 'FF33D8E989A6596918830E369340F09C',
+    participant: undefined
+  },
+  messageTimestamp: 1715311357,
+  pushName: 'José',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '9',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '9',
+  from: '593967687882'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_7b24d66a-d73a-4c81-8a33-d5c576b95834',
+  keyword: 'key_e5036696-e0c8-4098-873d-81939d856c42',
+  answer: 'Numero Invalido, ingrese un numero del *1* al *7*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '9e413bc45755d7d61c9e0b8176a97a26'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593967687882@s.whatsapp.net',
+    fromMe: false,
+    id: '08FFE127AECCA916BA02BAC4D4DBC0F5',
+    participant: undefined
+  },
+  messageTimestamp: 1715311358,
+  pushName: 'José',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 86400,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '593967687882'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593967687882@s.whatsapp.net',
+    fromMe: false,
+    id: '42A7BF41818485B633708172593A6805',
+    participant: undefined
+  },
+  messageTimestamp: 1715311364,
+  pushName: 'José',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '0',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '0',
+  from: '593967687882'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_961be77a-3932-490d-8b3a-af852e73d5fb',
+  keyword: 'key_7fd9b71d-386d-4d27-89cf-7fad7826147a',
+  answer: '\t*¡Bienvenid@!* 👋\n' +
+    'Hola soy *J*, el asistente virtual del colegio José María Vivar Castro \n' +
+    'Selecione una opción si necesita información academica:\n' +
+    '\t*1*- Información institucional 😎\n' +
+    '\t*2*- Requisitos de Matricula ✅\n' +
+    '\t*3*- Formas de Estudio \n' +
+    '\t*4* - Costos\n' +
+    '\t*5* - Información Exclusiva 👨‍💻 \n' +
+    '\t*6* - Nuestras Redes 📱\n' +
+    '\t*7* - Salir 👋',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'a282228f65e2b1750f019b7741151cb8'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593967687882@s.whatsapp.net',
+    fromMe: false,
+    id: '4FF64B34DF91FAA24DABC8F68C5FB915',
+    participant: undefined
+  },
+  messageTimestamp: 1715311365,
+  pushName: 'José',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 86400,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '593967687882'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593967687882@s.whatsapp.net',
+    fromMe: false,
+    id: '733495F21E84337D503F81B47AD348FD',
+    participant: undefined
+  },
+  messageTimestamp: 1715311369,
+  pushName: 'José',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '7',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '7',
+  from: '593967687882'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_6abdf284-83c9-4966-aede-ac5dad2c3ac7',
+  keyword: 'key_746ef617-ab46-4c8b-9eb7-944c415f2446',
+  answer: 'Gracias por contactarte con *José Maria Viviar Castro* estamos para servirte. 😊',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '0235cd3f916861c8c4245af90a968c85'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593967687882@s.whatsapp.net',
+    fromMe: false,
+    id: '76AAC1B0CD84C58FDCB5662C935C1ED4',
+    participant: undefined
+  },
+  messageTimestamp: 1715311370,
+  pushName: 'José',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 86400,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '593967687882'
+}
